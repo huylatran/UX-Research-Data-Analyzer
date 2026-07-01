@@ -1,0 +1,16 @@
+participant_id,age,gender,sus_score,task_1_completion,task_2_completion,task_3_completion,task_1_time_seconds,task_2_time_seconds,task_3_time_seconds,satisfaction_rating,would_recommend
+P01,22,Female,82,yes,yes,yes,45,78,32,4,yes
+P02,34,Male,91,yes,yes,yes,38,55,28,5,yes
+P03,28,Non-binary,67,yes,no,yes,72,120,41,3,no
+P04,45,Female,78,yes,yes,no,51,88,95,4,yes
+P05,19,Male,88,yes,yes,yes,34,62,29,5,yes
+P06,31,Female,74,yes,yes,yes,58,70,44,4,yes
+P07,26,Male,55,no,no,yes,110,145,38,2,no
+P08,38,Female,83,yes,yes,yes,42,67,31,4,yes
+P09,22,Male,90,yes,yes,yes,36,58,27,5,yes
+P10,29,Non-binary,71,yes,yes,no,63,82,88,3,yes
+P11,41,Female,86,yes,yes,yes,40,61,30,5,yes
+P12,24,Male,62,yes,no,no,69,130,102,3,no
+P13,35,Female,79,yes,yes,yes,55,74,37,4,yes
+P14,27,Male,93,yes,yes,yes,31,52,25,5,yes
+P15,30,Female,76,yes,yes,yes,60,79,39,4,yes
